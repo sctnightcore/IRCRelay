@@ -1,2 +1,7 @@
-# IRCRelay
-A Relay bot that combines IRC and Discord
+## Usage
+
+```shell
+$ git clone
+$ yarn # or npm install
+$ node lib/start
+```
